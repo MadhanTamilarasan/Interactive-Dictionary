@@ -1,6 +1,6 @@
 # Interactive-Dictionary
 
-InteractiveDictionary is a web-based dictionary application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for searching and retrieving word definitions, synonyms and example sentences. The project leverages API calling to integrate with a reliable dictionary API, ensuring real-time word data and expanding the application's capabilities.
+Interactive-Dictionary is a web-based dictionary application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for searching and retrieving word definitions, synonyms and example sentences. The project leverages API calling to integrate with a reliable dictionary API, ensuring real-time word data and expanding the application's capabilities.
 
 ## Features
 
@@ -13,8 +13,8 @@ InteractiveDictionary is a web-based dictionary application built using HTML, CS
 
 To get started with the InteractiveDictionary project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/InteractiveDictionary.git`
-2. Navigate to the project directory: `cd InteractiveDictionary`
+1. Clone the repository: `git clone https://github.com/MadhanTamilarasan/Interactive-Dictionary.git`
+2. Navigate to the project directory: `cd Interactive-Dictionary`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
